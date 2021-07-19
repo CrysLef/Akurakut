@@ -39,7 +39,7 @@ export function AlurakutMenu({ githubUser }) {
             Sair
           </a>
           <div>
-            <input placeholder="Pesquisar no Orkut" />
+            <input type="search" placeholder="Pesquisar no Orkut" />
           </div>
         </nav>
 
